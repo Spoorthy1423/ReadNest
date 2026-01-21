@@ -13,8 +13,6 @@
 
 ---
 
-## 🧠 What You’ll Learn
-
 - ⚙️ Build a REST API with **Node.js**, **Express** & **MongoDB**
 - 🔑 Implement stateless auth using **JSON Web Tokens (JWT)**
 - 🔄 Add performant **infinite loading** with pagination cursors
