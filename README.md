@@ -1,16 +1,4 @@
-<h1 align="center">📚 BookWorm – Full‑Stack React Native App 🚀</h1>
-
-![Demo App](/mobile/assets/images/screenshot-for-readme.png)
-
-## 🎯 What You'll Build
-
-This is a true **full‑stack** project—not just a pretty UI.
-
-✅ Works on **real devices & simulators** (Android / iOS)  
-✅ Zero native code, zero paid services  
-✅ Complete build in **~7 hours**
-
----
+<h1 align="center"> ReadNest 🌸 </h1>
 
 ## 🧑‍🍳 App Features Overview
 
@@ -68,5 +56,5 @@ npm run dev
 ```bash
 cd mobile
 npm install
-npx expo
+npx expo start
 ```
