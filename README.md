@@ -56,3 +56,9 @@ cd mobile
 npm install
 npx expo start
 ```
+
+---
+## 📽️ Demo Video
+
+👉 **App Demo (Google Drive)**  
+🔗 https://drive.google.com/file/d/1EgKZw6uLQlXVFWm5awLK996EAsflTnsV/view?usp=sharing
